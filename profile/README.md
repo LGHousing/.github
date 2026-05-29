@@ -17,11 +17,11 @@ We build houses, the tools to make them, and infrastructure behind it all.
 <table>
   <tr>
     <td width="50%"><img src="./assets/parkourparadise.png" alt="Parkour Paradise" /></td>
-    <td width="50%"><img src="./assets/freezetag-hero.png" alt="Freeze Tag" /></td>
+    <td width="50%"><img src="./assets/freezetag.png" alt="Freeze Tag" /></td>
   </tr>
   <tr>
     <td align="center"><b>Parkour Paradise</b><br/><code>/visit ENN020</code></td>
-    <td align="center"><b>Freeze Tag</b><br/>Coming soon</td>
+    <td align="center"><b>Freeze Tag</b><br/><code>/visit Novys</code></td>
   </tr>
 </table>
 
