@@ -6,7 +6,7 @@
 
 </div>
 
-Legendary Games is a community of designers, builders, and developers creating games within Hypixel Housing. Founded on September 4th, 2023, we've grown into one of Housing's most active creative groups — with **40+ games released**, **20+ events hosted**, and **70+ creators & staff** contributing to our projects.
+Legendary Games is a community of designers, builders, and developers creating games within Hypixel Housing. Founded on September 4th, 2023, we've grown into one of Housing's most active creative groups with **40+ games released**, **20+ events hosted**, and **70+ creators & staff** contributing to our projects.
 
 We build houses, the tools to make them, and infrastructure behind it all.
 
