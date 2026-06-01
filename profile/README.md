@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./assets/legendarygames.svg" alt="Legendary Games" width="420" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/legendarygames.svg" />
+  <img src="./assets/legendarygames-light.svg" alt="Legendary Games" width="420" />
+</picture>
 
 **Pushing the boundaries of [Hypixel Housing](https://hypixel.net).**
 
